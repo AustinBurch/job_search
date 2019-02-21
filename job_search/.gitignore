@@ -1,0 +1,4 @@
+#Git Ignore
+.vscode
+__pycache__
+
